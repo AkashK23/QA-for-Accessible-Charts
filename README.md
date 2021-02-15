@@ -1,1 +1,0 @@
-# QA-for-Accessible-Charts
