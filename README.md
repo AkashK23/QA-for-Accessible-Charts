@@ -37,12 +37,16 @@ information a visually able person can attain by
 looking at the figure.
 
 Code:
+
   ● MakeData.ipynb: Makes the dataset for the LSTM model. This file generates the
   questions and their associated types.
+  
   ● Makegraphs.ipynb: makes the dataset with the chart, datatable, and associated
   question-answer pairs.
+  
   ● ModelPredipynb: takes in the data extracted from the image and natural
   language question and outputs the response to the question.
+  
   ● HoughOCR.ipynb: takes in the bar chart image and uses the OCR and Hough
   transform to extract data from the image.
 
